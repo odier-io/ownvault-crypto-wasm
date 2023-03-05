@@ -2,7 +2,7 @@
     "name": "@ownvault/crypto-wasm",
     "version": "1.0.0",
     "description": "OwnVault cryptographic kernel",
-    "main": "./ownvault-crypto.min.js",
+    "main": "./ownvault-crypto.js",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/odier-io/ownvault-crypto-wasm.git"
