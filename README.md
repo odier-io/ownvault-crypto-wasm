@@ -7,6 +7,7 @@ It includes implementations for:
   - SHA256
   - HMAC SHA256
   - PBKDF2 HMAC SHA256
+  - DRBG HMAC SHA56
   - AES256
   - AES256 GCM
 
