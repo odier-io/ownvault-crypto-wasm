@@ -11,3 +11,9 @@ It includes implementations for:
   - AES256 GCM
 
 In addition, an DRBG HMAC SHA56 random number generator is also provided.
+
+
+Author
+------
+
+Jérôme ODIER
