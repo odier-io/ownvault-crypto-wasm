@@ -1,0 +1,27 @@
+{
+    "name": "@ownvault/crypto-wasm",
+    "version": "1.0.0",
+    "description": "OwnVault cryptographic kernel",
+    "main": "./ownvault-crypto.min.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/odier-io/ownvault-crypto-wasm.git"
+    },
+    "keywords": [
+        "ownvault",
+        "cryptography",
+        "wasm",
+        "sha",
+        "hmac",
+        "pbkdf2",
+        "drbg",
+        "aes",
+        "gmc"
+    ],
+    "author": "Jérôme ODIER",
+    "license": "AGPL",
+    "bugs": {
+        "url": "https://github.com/odier-io/ownvault-crypto-wasm/issues"
+    },
+    "homepage": "https://github.com/odier-io/ownvault-crypto-wasm#readme"
+}
